@@ -58,6 +58,7 @@ This will open the GUI window where you can upload a voice clip for prediction.
 
 ### ✅ Step 4: Upload a Voice File
 Supported formats: .wav or .mp3
+you can access the test audio clips here- [Test samples](https://drive.google.com/drive/folders/1wr-t1gPPDPPahO8fu5UPsIifWvn9tGru?usp=sharing)
 
 ✅ If male voice:
 
